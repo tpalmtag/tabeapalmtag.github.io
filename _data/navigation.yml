@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
+    - title: "Home"
+      url: /
+    - title: "About"
+      url: /about/
+    - title: "Research" 
+      url: /research/
+    - title: "Teaching"
+      url: /teaching/
   
   # - title: "Sitemap"
   #   url: /sitemap/
