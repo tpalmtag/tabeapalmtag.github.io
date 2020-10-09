@@ -7,8 +7,9 @@ toc: true
 ---
 
 - **University of Zurich**  
-    - International Institutions, BA Thesis seminar)
-    - Globalization and Local Communities (BA seminar)
+    - International Institutions, BA Thesis seminar (Fall 2020) 
+    - Globalization and Local Communities, BA seminar (Fall 2020) 
+    - International Organizations, BA seminar (Spring 2020) 
     - Contentious Politics: Types, Actors and Explanations, BA seminar (Fall 2019) 
     - International Trade and Internal Conflict, BA seminar (Fall 2018)
     - Advanced Topics in International Relations, BA lecture (Spring 2018, Fall 2018 & Spring 2019) (co-taught with Prof. Dr. Stefanie Walter) 
