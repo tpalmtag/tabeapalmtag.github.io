@@ -6,10 +6,9 @@ author_profile: true
 toc: true
 ---
 
-- **Publications**  
 - **Journal Articles**  
-
-	- International Trade and Public Protest: Evidence from Russian Regions (with Tobias Rommel and Stefanie Walter), *International Studies Quarterly*, 2020, OnlineFirst. [link](https://journals.sagepub.com/doi/full/10.1177/0010414017710264)globalization-conflict-in-international-assemblies-cleavage-formation-beyond-the-state/7E4C545841D50F98AABFD6665CD5D9E9)
+	- International Trade and Public Protest: Evidence from Russian Regions (with Tobias Rommel and Stefanie Walter), *International Studies Quarterly*, 2020, OnlineFirst. 
+	 [link](https://journals.sagepub.com/doi/full/10.1177/0010414017710264)
     - Accountability and Opposition to Globalization in International Assemblies (with Pieter de Wilde and Wiebke Junk), *European Journal of International Relations*, 22(4), 823–846. [link](http://journals.sagepub.com/doi/abs/10.1177/1354066115604032) 
 
 - **Book Chapters**  
