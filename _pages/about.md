@@ -6,4 +6,8 @@ author_profile: true
 toc: true
 ---
 
-I am a postdoctoral researcher at the chair for international relations and international political economy. I received my PhD from the University of Zurich with a thesis on the political economy of protest with a particular focus on Sub-Saharan African countries. My research focuses on the distributional effects of economic globalization and its societal effects, especially globalization`s impact on social conflict. I am also interested in the spatial disparities of integration and economic performance in general and have therefore a special interest in working with spatially disaggregated data. At the moment I am working on the effect of economic transformations on intergenerational mobility and political preferences of mobile and immobile people.
+Earlier this year I defended my doctoral thesis on the political economy of protest, which traces the uneven distribution of development and globalization gains between regions and individuals and test their potential to fuel social unrest. The main findings of my thesis show that both development and globalization profit predominantly high-skilled labor in developing and emerging markets. However, the uneven distribution of gains does not automatically result in protest, social unrest only becomes more prevalent when large parts of the local population lose out from these economic transformations. 
+
+At the moment I am working on a new project that looks at the long-term consequences of economic decline. 
+
+
