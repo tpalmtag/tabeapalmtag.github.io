@@ -7,8 +7,11 @@ toc: true
 ---
 
 - **University of Zurich**  
-    - International Institutions, BA seminar (Fall 2020) 
+    - PhD Colloquium, Center for Comparative and International Studies (Spring 2021) 
+    - Gobalization and Distributional Conflicts, MA seminar (Spring 2021)
+    - BA Thesis Colloquium, International Institutions, (Spring 2021)  (co-taught with Dr. Loriana Crasnic)
     - Globalization and Local Communities, BA seminar (Fall 2020) 
+    - International Institutions (Fall 2020)  (co-taught with Dr. Loriana Crasnic)
     - International Organizations: Formation, Function and Dissolution, BA seminar (Spring 2020) 
     - Contentious Politics: Types, Actors and Explanations, BA seminar (Fall 2019) 
     - International Trade and Internal Conflict, BA seminar (Fall 2018)

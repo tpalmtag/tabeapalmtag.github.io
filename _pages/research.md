@@ -20,3 +20,5 @@ toc: true
     - Economic Globalization and Protest Participation in Europe (with Thomas Willi)
     - When Heuristics Fail. Cross-Pressured Voters in Hard Times (with Thomas Willi)
     - Local Effects of Foreign Direct Investment (with Luca Messerschmidt and Tobias Rommel)
+    - Foreign Direct Investment and Electoral Violence (with Katrin Paula and Tobias Rommel)
+    - Appealing to the Local Voter: Place-based Campaigning and the Supply-Side of the Urban-Rural Divide (with Lukas Haffert and Dominik Schraff)
