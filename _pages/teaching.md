@@ -7,6 +7,7 @@ toc: true
 ---
 
 - **University of Zurich**  
+    - Inequality and Social Conflict, MA seminar (Spring 2022)
     - PhD Colloquium, Center for Comparative and International Studies (Spring 2021) 
     - Gobalization and Distributional Conflicts, MA seminar (Spring 2021)
     - BA Thesis Colloquium, International Institutions, (Spring 2021)  (co-taught with Dr. Loriana Crasnic)
